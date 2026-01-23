@@ -8,7 +8,6 @@
 I'm a **Senior Web Developer** with **10 years of experience** specializing in building scalable, performant frontend applications. 
 I'm passionate about creating sustainable architectures using modern technologies while maintaining exceptional code quality.
 
-- 🔭 Currently working on **Microfrontend architectures** and **performance optimization**
 - 🌱 Learning **Advanced Angular patterns**, **Web Performance**, and **Cloud Architecture**
 - 💬 Ask me about **Angular**, **Signals**, **RxJS**, **Monorepos**, **Microfrontends**, and **Web Components**
 
@@ -65,41 +64,6 @@ I'm passionate about creating sustainable architectures using modern technologie
   <img src="https://github-readme-stats.vercel.app/api?username=pierrenedelec&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrenedelec&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pierrenedelec&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pierrenedelec&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-## 💼 Core Competencies
-```typescript
-const pierre = {
-  code: ["TypeScript", "JavaScript", "Python", "Node.js"],
-  technologies: {
-    frontEnd: {
-      frameworks: ["Angular", "AngularJS"],
-      architecture: ["Microfrontends", "Monorepos (Nx)", "Web Components"],
-      stateManagement: ["Signal Store", "NgRx", "NGXS", "RxJS"],
-      styling: ["CSS3", "SASS", "Tailwind CSS"]
-    },
-    backEnd: {
-      runtime: ["Node.js"],
-      frameworks: ["Django"]
-    },
-    testing: ["Jest", "Vitest", "Cypress", "Playwright", "Storybook"],
-    devOps: ["Docker", "AWS", "GCloud", "Firebase", "CI/CD"],
-    databases: ["PostgreSQL", "MongoDB", "Firebase Firestore"]
-  },
-  architecture: ["Microfrontends", "Monorepos", "SSR", "PWA"],
-  methodologies: ["Agile", "Scrum", "Kanban", "SAFe"],
-  currentFocus: "Building scalable frontend architectures with optimal performance"
-};
-```
 
 ## 🎯 Specializations
 
