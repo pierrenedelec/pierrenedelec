@@ -56,12 +56,6 @@ I'm passionate about creating sustainable architectures using modern technologie
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pierrenedelec&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrenedelec&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
-</p>
 
 ## 🎯 Specializations
 
